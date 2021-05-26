@@ -1,0 +1,20 @@
+[
+  {
+    "package": "meetupr"
+  },
+  {
+    "package": "cvAUC",
+    "oncran": true
+  },
+  {
+    "package": "subsemble"
+  },
+  {
+    "package": "SuperLearner",
+    "oncran": true
+  },
+  {
+    "package": "rHealthDataGov",
+    "oncran": false
+  }
+]
