@@ -8,7 +8,7 @@
   },
   {
     "package": "subsemble",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "SuperLearner",
