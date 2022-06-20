@@ -15,7 +15,6 @@
     "oncran": true
   },
   {
-    "package": "rHealthDataGov",
-    "oncran": false
+    "package": "rHealthDataGov"
   }
 ]
