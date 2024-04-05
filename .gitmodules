@@ -1,10 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ledell/ledell.r-universe.dev
 	branch = HEAD
+[submodule "SuperLearner"]
+	path = SuperLearner
+	url = https://github.com/ecpolley/SuperLearner
 [submodule "cvAUC"]
 	path = cvAUC
-	url = https://github.com/ledell/cvauc
+	url = https://github.com/ledell/cvAUC
+[submodule "meetupr"]
+	path = meetupr
+	url = https://github.com/rladies/meetupr
+[submodule "rHealthDataGov"]
+	path = rHealthDataGov
+	url = https://github.com/rOpenHealth/rHealthDataGov
 [submodule "subsemble"]
 	path = subsemble
 	url = https://github.com/ledell/subsemble
